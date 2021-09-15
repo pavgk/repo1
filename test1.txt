@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 0A52-E578
+
+ Directory of C:\Users\aa08469\OneDrive - Lumen\Desktop\JoesProject
+
+09/15/2021  04:20 PM    <DIR>          .
+09/15/2021  04:20 PM    <DIR>          ..
+09/15/2021  04:20 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  886,429,536,256 bytes free
